@@ -6,7 +6,6 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import java.net.MalformedURLException;
 import java.net.URL;
-
 public class TestBase extends AbstractTestNGCucumberTests {
     public static AppiumDriver driver;
 
